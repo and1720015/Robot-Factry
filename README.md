@@ -17,5 +17,5 @@
 
 現場の状況により微細な調整が必要
 
-## 参考：PCにKinectV2を入れる
+### 参考：oFにKinectV2を入れる
 https://github.com/umetaman/preparing_kv2_for_of
